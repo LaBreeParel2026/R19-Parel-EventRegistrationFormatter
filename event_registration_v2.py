@@ -1,4 +1,3 @@
-
 first_name = input("Enter first name: ").strip().title()
 last_name = input("Enter last name: ").strip().title()
 section = input("Enter section: ").strip().upper()
